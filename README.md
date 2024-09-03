@@ -1,4 +1,4 @@
-**Excelerate Platform Data Analysis Dashboard
+**Excelerate Platform Data Analysis Dashboard**
 
 **Project Overview**
 
